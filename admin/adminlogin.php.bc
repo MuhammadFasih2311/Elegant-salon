@@ -1,0 +1,10 @@
+<?php
+// Run once to insert admin securely
+include("connect.php");
+
+$email = "admin@gmail.com";
+$password = password_hash("admin123", PASSWORD_BCRYPT); // Secure password
+
+mysqli_query($conn, "INSERT INTO admin (email, password) VALUES ('$email', '$password')");
+echo "Admin inserted.";
+?>
