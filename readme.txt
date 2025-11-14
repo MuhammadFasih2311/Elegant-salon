@@ -2,7 +2,7 @@
 A modern and fully responsive salon website built using **PHP**, **Bootstrap 5**, and **MySQL**, featuring an admin panel and dynamic booking system.
 
 ## 🌐 Live Demo
-[https://elegantsalon.wuaze.com](https://elegantsalon.wuaze.com)
+[https://elegantsalon.wuaze.com]
 
 ## ✨ Features
 - Responsive layout (Bootstrap 5)
