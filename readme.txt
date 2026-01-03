@@ -3,7 +3,7 @@
 A modern and fully responsive salon website built using **PHP**, **Bootstrap 5**, and **MySQL**, featuring an admin panel and dynamic booking system.
 
 ## 🌐 Live Demo
-[https://elegantsalon.free.nf](https://elegantsalon.free.nf)
+[ElegantSalon](https://elegantsalon.free.nf)
 
 ## ✨ Features
 - Responsive layout (Bootstrap 5)
